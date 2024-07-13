@@ -1,7 +1,6 @@
 <div align="center">
-<!--   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  /> -->
-<!--   <img height="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"  /> -->
-  <img height="300" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+
+  <img height="300" src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif"  />
 </div>
 
 ###
@@ -23,19 +22,13 @@
   <a href="https://stackoverflow.com/users/26006328/ishan-ahire" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
-
-</div>
-###
- 
-<div align="center">
-
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width=50 style="margin-right: 20px"/> Hey there <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width=50 style="margin-left: 20px"/>
 </div>
 
-###
-<img src="https://gist.github.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" height="30px">
 
-### 👩‍💻 A quick overview of myself ...
+
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
+👩‍💻 A quick overview of myself ...
 
 Hello there! 👋 I'm Ishan Ahire , a dedicated and proficient software developer. I excel in designing and developing elegant, functional applications. My expertise lies in creating intuitive and seamless user experiences through innovative technology and thoughtful design. With a passion for both coding and creativity, I bring concepts to reality by crafting engaging and effective projects.
 
@@ -58,11 +51,11 @@ Beyond my professional life, I enjoy playing games 🎮 and cricket. 🏏
 ###
 
 
-
+🔥   My Stats :
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishan1712&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Ishan1712&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishan1712&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishan1712&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -80,3 +73,4 @@ Beyond my professional life, I enjoy playing games 🎮 and cricket. 🏏
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/Ishan1712/Ishan1712/output/snake.svg" alt="Snake animation" />
