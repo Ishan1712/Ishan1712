@@ -1,4 +1,6 @@
-<h2 align="left">Hey there! 👋 I'm Ishan Ahire, a dedicated and proficient software developer. I excel in designing and developing elegant, functional applications. My expertise lies in creating intuitive and seamless user experiences through innovative technology and thoughtful design. With a passion for both coding and creativity, I bring concepts to reality by crafting engaging and effective projects.<br><br>Beyond my professional life, I enjoy playing games 🎮 and cricket. 🏏<br><br><br>👨‍💻 Software Developer at Augle AI<br>🛠️ Freelancer<br>📚 Exploring trending technologies and skills 🍃<br>⚡ In my free time, I build functional applications.</h2>
+<img align="right" height="150" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
+
+<h2 align="left"><b>Hey there!</b> 👋 I'm <b>Ishan Ahire</b>, a dedicated and proficient software developer. I excel in designing and developing elegant, functional applications. My expertise lies in creating intuitive and seamless user experiences through innovative technology and thoughtful design. With a passion for both coding and creativity, I bring concepts to reality by crafting engaging and effective projects.<br><br>Beyond my professional life, I enjoy playing games 🎮 and cricket. 🏏<br><br><br>👨‍💻 Software Developer at Augle AI<br>🛠️ Freelancer<br>📚 Exploring trending technologies and skills 🍃<br>⚡ In my free time, I build functional applications.</h2>
 
 ###
 
