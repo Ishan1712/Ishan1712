@@ -33,7 +33,7 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
+<img src="https://gist.github.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" height="30px">
 
 ### 👩‍💻 A quick overview of myself ...
 
