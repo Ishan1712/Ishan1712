@@ -63,4 +63,6 @@
   <img src="https://profile-counter.glitch.me/Ishan1712/count.svg?"  />
 </div>
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/Ishan1712/Ishan1712/output/snake.svg" alt="Snake animation" />
+</div>
