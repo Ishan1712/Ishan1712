@@ -62,3 +62,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Ishan1712/count.svg?"  />
 </div>
+
+
+![snake gif](https://github.com/Ishan1712/Ishan1712/blob/output/github-contribution-grid-snake.svg)
