@@ -64,4 +64,6 @@
 </div>
 
 
-![snake gif](https://github.com/Ishan1712/Ishan1712/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ishan1712/Ishan1712/output/snake.svg" alt="Snake animation" />
+</div>
