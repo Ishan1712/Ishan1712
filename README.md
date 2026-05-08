@@ -26,12 +26,12 @@
 <h2 align="center"> <b>Hey there!</b> 👋</h2>
 
 <div align="center">
-  <h5 align="left">I'm <b>Ishan Ahire</b>, a dedicated and proficient software developer. I excel in designing and developing elegant, functional applications. My expertise lies in creating intuitive and seamless user experiences through innovative technology and thoughtful design. With a passion for both coding and creativity, I bring concepts to reality by crafting engaging and effective projects.</h5>
+  <h5 align="left">I'm <b>Ishan Ahire</b>, a Lead Software Engineer with expertise in Full Stack architecture and AI integration. I own the end-to-end design of industrial platforms, managing everything from LLM inference pipelines to real-time robotic control. Role: Lead Engineer at Augle AI (Promoted from Intern in <1 year). Impact: Deployed 4+ mission-critical projects ensuring 24x7 uptime. Stack: React.js, Next.js, Node.js , Typescript , Python, Django, PostgreSQL, Redis, AWS.</h5>
 
   <h5 align="left">Beyond my professional life, I enjoy playing games 🎮 and cricket. 🏏</h5>
 
   <h5 align="left">
-    👨‍💻 Software Developer at Augle AI <br>
+    👨‍💻 Lead Software Engineer at Augle AI <br>
     🛠️ Freelancer <br>
     📚 Exploring trending technologies and skills 🍃 <br>
     ⚡ In my free time, I build functional applications
